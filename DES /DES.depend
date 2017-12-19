@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1510584490 source:z:\m1\security\des\bit_tables.cpp
+	<iostream>
+
+1510759977 source:z:\m1\security\des\permutations.cpp
+	"permutations.h"
+	"math.h"
+	<iostream>
+
+1510761260 z:\m1\security\des\permutations.h
+
+1510760302 source:z:\m1\security\des\main.cpp
+	<iostream>
+	"permutations.h"
+	"bit_tables.h"
+	"data_tables.h"
+	"data_messages_examples.h"
+
+1510583310 z:\m1\security\des\bit_tables.h
+
+1510756327 z:\m1\security\des\data_tables.h
+
+1510584279 z:\m1\security\des\data_messages_examples.h
+
+1511280033 source:g:\documents\efrei\m1\des\bit_tables.cpp
+	<iostream>
+
+1511889752 source:g:\documents\efrei\m1\des\main.cpp
+	<iostream>
+	"permutations.h"
+	"bit_tables.h"
+	"data_tables.h"
+	"data_messages_examples.h"
+
+1511795627 g:\documents\efrei\m1\des\permutations.h
+
+1510583312 g:\documents\efrei\m1\des\bit_tables.h
+
+1511783662 g:\documents\efrei\m1\des\data_tables.h
+
+1510584280 g:\documents\efrei\m1\des\data_messages_examples.h
+
+1511889953 source:g:\documents\efrei\m1\des\permutations.cpp
+	"permutations.h"
+	"math.h"
+	<iostream>
+
+1512387129 source:z:\des\bit_tables.cpp
+	<iostream>
+
+1512392037 source:z:\des\main.cpp
+	<iostream>
+	"permutations.h"
+	"bit_tables.h"
+	"data_tables.h"
+	"data_messages_examples.h"
+
+1512391604 z:\des\permutations.h
+
+1510583312 z:\des\bit_tables.h
+
+1512391765 z:\des\data_tables.h
+
+1510584280 z:\des\data_messages_examples.h
+
+1512391977 source:z:\des\permutations.cpp
+	"permutations.h"
+	"math.h"
+	<iostream>
+
+1512387129 source:c:\users\vip\desktop\des\bit_tables.cpp
+	<iostream>
+
+1512565770 source:c:\users\vip\desktop\des\main.cpp
+	<iostream>
+	"permutations.h"
+	"bit_tables.h"
+	"data_tables.h"
+	"data_messages_examples.h"
+
+1512566855 c:\users\vip\desktop\des\permutations.h
+
+1510583312 c:\users\vip\desktop\des\bit_tables.h
+
+1512568507 c:\users\vip\desktop\des\data_tables.h
+
+1510584280 c:\users\vip\desktop\des\data_messages_examples.h
+
+1512570960 source:c:\users\vip\desktop\des\permutations.cpp
+	"permutations.h"
+	"math.h"
+	<iostream>
+
