@@ -619,8 +619,12 @@ void DES::DESEncryption()
     // Step 1
     initialPermutation();
 
+    system("pause");
+
     // Step 2
     splitPermutatedMessage();
+
+    system("pause");
 
     // Step 3 - 7
     do16rounds();
